@@ -1,8 +1,3 @@
-# How to Build a Better NFT Marketplace with React, Solidity,
-
-![image](https://github.com/amansharma703/NFTKart/assets/72183900/07361b32-a08e-4dec-9cb3-c807bbec1ebf)
-
-
 ## Technology
 
 This demo uses:
