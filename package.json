@@ -7,7 +7,7 @@
     "build": "npm install && npm run build",
     "test": "react-app-rewired test",
     "eject": "react-scripts eject",
-     "render-postbuild": "NPM_CONFIG_PRODUCTION=false npm install  && npm run build"
+     "render-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --force && npm run build"
   },
   "dependencies": {
     "ipfs-http-client": "^59.0.0",
